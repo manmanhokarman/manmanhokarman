@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://manmanhokarman.github.com/manmanhokarman/sitemap.xml 
